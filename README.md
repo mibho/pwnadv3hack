@@ -18,8 +18,11 @@ Example concepts:
 
 Features include:
   speed hack,
+  
   jump hack,
+  
   health/mana hack 
+  
   teleport to a specified region.
   
   
