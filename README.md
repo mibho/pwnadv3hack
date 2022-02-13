@@ -17,6 +17,7 @@ Example concepts:
 ----------------------------------------------------------------------------------------------
 
 Features include:
+
   speed hack,
   
   jump hack,
@@ -24,6 +25,8 @@ Features include:
   health/mana hack 
   
   teleport to a specified region.
+  
+  
   
   
 Original client site:
