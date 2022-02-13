@@ -6,13 +6,21 @@ Original goal for this "project" was to be able to spawn any enemy (eg: Bear, An
 Example concepts:
 ----------------------------------------------------------------------------------------------
 
+
   C-style casts & reinterpret_cast<..>
+  
   Function pointers
+  
   Virtual tables/functions & 
+  
   Multi-level pointers
+  
   Class Informer plugin (IDA) 
+  
   Reclass
+  
   RTTI & analyzing x86 in C++ 
+
 
 ----------------------------------------------------------------------------------------------
 
